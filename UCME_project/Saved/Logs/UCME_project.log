@@ -891,3 +891,688 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.12-19.21.14:103][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.04.12-19.21.15:272][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.04.12-19.24.51:105][991]LogSlate: Took 0.018086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.12-19.43.54:215][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.12-19.43.56:361][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.12-19.46.13:270][634]Cmd: MODE GRID=0
+[2020.04.12-19.46.14:687][747]Cmd: MODE GRID=1
+[2020.04.12-19.48.19:587][286]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button base.FBX)
+[2020.04.12-19.48.19:809][286]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button base.FBX
+[2020.04.12-19.48.19:859][286]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.48.23:717][286]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.48.24:002][286]LogLinker: Failed to load '/Game/Level_1/Boton/button': Can't find file.
+[2020.04.12-19.48.24:002][286]LogLinker: Failed to load '/Game/Level_1/Boton/button': Can't find file.
+[2020.04.12-19.48.24:512][286]LogTexture: Display: Building textures: button (AutoDXT, 1024X1024)
+[2020.04.12-19.48.24:784][286]LogMaterial: Display: Missing cached shader map for material Material__30, compiling. 
+[2020.04.12-19.48.24:896][286]LogFbx: Display: Triangulating static mesh Box002
+[2020.04.12-19.48.25:086][286]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.12-19.48.25:086][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.12-19.48.25:101][286]LogStaticMesh: Building static mesh button_base...
+[2020.04.12-19.48.25:263][286]LogStaticMesh: Built static mesh [0.15s] /Game/Level_1/Boton/button_base.button_base
+[2020.04.12-19.48.25:744][286]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.48.26:054][286]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button click.FBX)
+[2020.04.12-19.48.26:063][286]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button click.FBX
+[2020.04.12-19.48.26:069][286]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.48.26:071][286]LogFbx: Display: Triangulating static mesh Box001
+[2020.04.12-19.48.26:094][286]LogStaticMesh: Building static mesh button_click...
+[2020.04.12-19.48.26:099][286]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/Boton/button_click.button_click
+[2020.04.12-19.48.26:105][286]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.49.05:093][286]LogSlate: Window 'Message' being destroyed
+[2020.04.12-19.49.05:175][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.04.12-19.49.05:314][286]LogUObjectGlobals: Warning: Could not delete
+[2020.04.12-19.49.07:413][286]LogSlate: Window 'Message' being destroyed
+[2020.04.12-19.49.07:437][286]LogAssetTools: Warning: Failed to delete '/Game/Level_1/Boton/button'. The asset is referenced by other content.
+[2020.04.12-19.49.07:449][286]LogAssetTools: Warning: Failed to import 'D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button.max'. Unknown extension 'max'.
+[2020.04.12-19.49.08:907][286]LogSlate: Window 'Message' being destroyed
+[2020.04.12-19.49.08:915][286]LogAssetTools: Warning: Failed to import 'D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button.zip'. Unknown extension 'zip'.
+[2020.04.12-19.49.09:222][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/button2.psd)
+[2020.04.12-19.49.09:232][286]LogTexture: Display: Building textures: button2 (BGRA8, 609X919)
+[2020.04.12-19.49.09:330][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button ao.jpg)
+[2020.04.12-19.49.09:356][286]LogTexture: Display: Building textures: button_ao (AutoDXT, 1024X1024)
+[2020.04.12-19.49.09:799][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button diff.jpg)
+[2020.04.12-19.49.09:839][286]LogTexture: Display: Building textures: button_diff (AutoDXT, 1024X1024)
+[2020.04.12-19.49.10:279][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button disp.jpg)
+[2020.04.12-19.49.10:298][286]LogTexture: Display: Building textures: button_disp (AutoDXT, 1024X1024)
+[2020.04.12-19.49.10:456][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button nor.jpg)
+[2020.04.12-19.49.10:512][286]LogTexture: Display: Building textures: button_nor (BC5, 1024X1024)
+[2020.04.12-19.49.10:673][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button rough.jpg)
+[2020.04.12-19.49.10:693][286]LogTexture: Display: Building textures: button_rough (AutoDXT, 1024X1024)
+[2020.04.12-19.49.10:885][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/maps/button.png)
+[2020.04.12-19.49.10:919][286]LogTexture: Display: Building textures: button (AutoDXT, 1024X1024)
+[2020.04.12-19.49.11:024][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/Modernismo-1.jpeg)
+[2020.04.12-19.49.11:059][286]LogTexture: Display: Building textures: Modernismo-1 (BGRA8, 1600X1101)
+[2020.04.12-19.49.11:120][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_ao_1k.jpg)
+[2020.04.12-19.49.11:133][286]LogTexture: Display: Building textures: tree_bark_03_ao_1k (AutoDXT, 1024X1024)
+[2020.04.12-19.49.11:728][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_diff_1k.jpg)
+[2020.04.12-19.49.11:757][286]LogTexture: Display: Building textures: tree_bark_03_diff_1k (AutoDXT, 1024X1024)
+[2020.04.12-19.49.12:235][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_disp_1k.jpg)
+[2020.04.12-19.49.12:240][286]LogTexture: Display: Building textures: tree_bark_03_disp_1k (AutoDXT, 1024X1024)
+[2020.04.12-19.49.12:437][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_nor_1k.jpg)
+[2020.04.12-19.49.12:478][286]LogTexture: Display: Building textures: tree_bark_03_nor_1k (BC5, 1024X1024)
+[2020.04.12-19.49.12:611][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_1k.jpg)
+[2020.04.12-19.49.12:618][286]LogTexture: Display: Building textures: tree_bark_03_rough_1k (AutoDXT, 1024X1024)
+[2020.04.12-19.49.12:748][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_AO_1k.jpg)
+[2020.04.12-19.49.12:784][286]LogTexture: Display: Building textures: tree_bark_03_rough_AO_1k (AutoDXT, 1024X1024)
+[2020.04.12-19.49.13:363][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/autumn.png)
+[2020.04.12-19.49.13:386][286]LogTexture: Display: Building textures: autumn (BGRA8, 507X1002)
+[2020.04.12-19.49.13:674][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/autumn.psd)
+[2020.04.12-19.49.13:692][286]LogTexture: Display: Building textures: autumn_0 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:719][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/1.png)
+[2020.04.12-19.49.13:724][286]LogTexture: Display: Building textures: 1 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:750][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/2.png)
+[2020.04.12-19.49.13:758][286]LogTexture: Display: Building textures: 2 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:781][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/3.png)
+[2020.04.12-19.49.13:790][286]LogTexture: Display: Building textures: 3 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:817][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/4.png)
+[2020.04.12-19.49.13:839][286]LogTexture: Display: Building textures: 4 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:934][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/5.png)
+[2020.04.12-19.49.13:955][286]LogTexture: Display: Building textures: 5 (BGRA8, 507X1002)
+[2020.04.12-19.49.13:993][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/6.png)
+[2020.04.12-19.49.14:016][286]LogTexture: Display: Building textures: 6 (BGRA8, 507X1002)
+[2020.04.12-19.49.14:057][286]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/marco 1.FBX)
+[2020.04.12-19.49.14:066][286]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/marco 1.FBX
+[2020.04.12-19.49.14:071][286]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.49.14:079][286]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2020.04.12-19.49.14:090][286]LogStaticMesh: Building static mesh marco_1...
+[2020.04.12-19.49.14:093][286]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/cuadro/capas/marco_1.marco_1
+[2020.04.12-19.49.14:093][286]LogStaticMesh: Warning: marco_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.12-19.49.14:106][286]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.12-19.49.14:106][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.12-19.49.14:106][286]LogStaticMesh: Warning: marco_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.49.14:110][286]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.49.14:110][286]FBXImport: Warning: marco_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.12-19.49.14:110][286]FBXImport: Warning: marco_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.49.14:139][286]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/marco 2.FBX)
+[2020.04.12-19.49.14:147][286]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/capas/marco 2.FBX
+[2020.04.12-19.49.14:153][286]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.49.14:158][286]LogStaticMesh: Building static mesh marco_2...
+[2020.04.12-19.49.14:160][286]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/cuadro/capas/marco_2.marco_2
+[2020.04.12-19.49.14:161][286]LogStaticMesh: Warning: marco_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.49.14:166][286]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.49.14:166][286]FBXImport: Warning: marco_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.49.14:172][286]LogAssetTools: Warning: Failed to import 'D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro/marco.max'. Unknown extension 'max'.
+[2020.04.12-19.49.17:586][593]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.49.17:591][593]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.49.20:625][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.12-19.49.20:627][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.024
+[2020.04.12-19.49.20:641][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/button_base] ([1] browsable assets)...
+[2020.04.12-19.49.20:649][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level_1/Boton/button_base.button_base]
+[2020.04.12-19.49.20:650][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/button_base]
+[2020.04.12-19.49.20:663][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_base_Auto181C73C284A13904F1C6DB4AF43DFA4F2.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/button_base_Auto1.uasset'
+[2020.04.12-19.49.20:665][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/Material__30] ([1] browsable assets)...
+[2020.04.12-19.49.20:683][934]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Level_1/Boton/Material__30.Material__30]
+[2020.04.12-19.49.20:683][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/Material__30]
+[2020.04.12-19.49.20:696][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Material__30_Auto188F2074D49D7DC7BF57B698F6FC648E8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/Material__30_Auto1.uasset'
+[2020.04.12-19.49.20:696][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/button] ([1] browsable assets)...
+[2020.04.12-19.49.20:702][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/button.button]
+[2020.04.12-19.49.20:702][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/button]
+[2020.04.12-19.49.20:730][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_Auto1DDB086FA4532D58AF766B0AB4DE696D6.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/button_Auto1.uasset'
+[2020.04.12-19.49.20:731][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/button_click] ([1] browsable assets)...
+[2020.04.12-19.49.20:739][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level_1/Boton/button_click.button_click]
+[2020.04.12-19.49.20:739][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/button_click]
+[2020.04.12-19.49.20:754][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_click_Auto16583AFC744317FF9593201BA6CF344AC.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/button_click_Auto1.uasset'
+[2020.04.12-19.49.20:754][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/button2] ([1] browsable assets)...
+[2020.04.12-19.49.20:757][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/button2.button2]
+[2020.04.12-19.49.20:757][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/button2]
+[2020.04.12-19.49.20:767][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button2_Auto1A5D2BF2E4C2E7020E7A14F92E73FC5BF.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/button2_Auto1.uasset'
+[2020.04.12-19.49.20:768][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button_ao] ([1] browsable assets)...
+[2020.04.12-19.49.20:773][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button_ao.button_ao]
+[2020.04.12-19.49.20:773][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button_ao]
+[2020.04.12-19.49.20:786][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_ao_Auto198EE252D48283C4DF605D39D74877C99.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_ao_Auto1.uasset'
+[2020.04.12-19.49.20:787][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button_diff] ([1] browsable assets)...
+[2020.04.12-19.49.20:791][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button_diff.button_diff]
+[2020.04.12-19.49.20:791][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button_diff]
+[2020.04.12-19.49.20:804][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_diff_Auto1CC4948AE4B9DF8890D4034BA040C2B1E.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_diff_Auto1.uasset'
+[2020.04.12-19.49.20:805][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button_disp] ([1] browsable assets)...
+[2020.04.12-19.49.20:809][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button_disp.button_disp]
+[2020.04.12-19.49.20:809][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button_disp]
+[2020.04.12-19.49.20:820][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_disp_Auto173468415454F7EB63C41AEBF85B101FC.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_disp_Auto1.uasset'
+[2020.04.12-19.49.20:821][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button_nor] ([1] browsable assets)...
+[2020.04.12-19.49.20:826][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button_nor.button_nor]
+[2020.04.12-19.49.20:826][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button_nor]
+[2020.04.12-19.49.20:841][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_nor_Auto1174002CD4969BD89C1085798C46E456F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_nor_Auto1.uasset'
+[2020.04.12-19.49.20:842][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button_rough] ([1] browsable assets)...
+[2020.04.12-19.49.20:847][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button_rough.button_rough]
+[2020.04.12-19.49.20:847][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button_rough]
+[2020.04.12-19.49.20:907][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_rough_Auto1F4078AA54A44DE81A6B8DAAF1E6363BD.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_rough_Auto1.uasset'
+[2020.04.12-19.49.20:908][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/maps/button] ([1] browsable assets)...
+[2020.04.12-19.49.20:910][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/maps/button.button]
+[2020.04.12-19.49.20:910][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/maps/button]
+[2020.04.12-19.49.20:921][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_Auto1D9087CF7444B71BDE05F32A1ABE417DD.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/maps/button_Auto1.uasset'
+[2020.04.12-19.49.20:921][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/Modernismo-1] ([1] browsable assets)...
+[2020.04.12-19.49.20:925][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/Modernismo-1.Modernismo-1]
+[2020.04.12-19.49.20:925][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/Modernismo-1]
+[2020.04.12-19.49.20:938][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Modernismo-1_Auto1E7E88BA14398BD38CBAD198B2622EBE9.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/Modernismo-1_Auto1.uasset'
+[2020.04.12-19.49.20:939][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_ao_1k] ([1] browsable assets)...
+[2020.04.12-19.49.20:943][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_ao_1k.tree_bark_03_ao_1k]
+[2020.04.12-19.49.20:944][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_ao_1k]
+[2020.04.12-19.49.20:956][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_ao_1k_Auto12CA0BE384CC5EA009F9FDE98F78E2DB5.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_ao_1k_Auto1.uasset'
+[2020.04.12-19.49.20:956][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_diff_1k] ([1] browsable assets)...
+[2020.04.12-19.49.20:961][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_diff_1k.tree_bark_03_diff_1k]
+[2020.04.12-19.49.20:961][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_diff_1k]
+[2020.04.12-19.49.20:977][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_diff_1k_Auto1D40856BF4C0BAF7C497B2793B13B479C.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_diff_1k_Auto1.uasset'
+[2020.04.12-19.49.20:978][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_disp_1k] ([1] browsable assets)...
+[2020.04.12-19.49.20:983][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_disp_1k.tree_bark_03_disp_1k]
+[2020.04.12-19.49.20:983][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_disp_1k]
+[2020.04.12-19.49.20:992][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_disp_1k_Auto1C24D60344BF1F08320B93C994FFB74DF.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_disp_1k_Auto1.uasset'
+[2020.04.12-19.49.20:993][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_nor_1k] ([1] browsable assets)...
+[2020.04.12-19.49.20:998][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_nor_1k.tree_bark_03_nor_1k]
+[2020.04.12-19.49.20:998][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_nor_1k]
+[2020.04.12-19.49.21:014][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_nor_1k_Auto107898E23481C83605EBC5AA57ACC8563.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_nor_1k_Auto1.uasset'
+[2020.04.12-19.49.21:015][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_1k] ([1] browsable assets)...
+[2020.04.12-19.49.21:021][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_1k.tree_bark_03_rough_1k]
+[2020.04.12-19.49.21:021][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_1k]
+[2020.04.12-19.49.21:031][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_rough_1k_Auto1ED24D4394371E6854CEBEB8DF2A6266A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_1k_Auto1.uasset'
+[2020.04.12-19.49.21:032][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_AO_1k] ([1] browsable assets)...
+[2020.04.12-19.49.21:038][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_AO_1k.tree_bark_03_rough_AO_1k]
+[2020.04.12-19.49.21:038][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_AO_1k]
+[2020.04.12-19.49.21:050][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/tree_bark_03_rough_AO_1k_Auto164B9CE4D4043D255B0A421A41E930D5A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/Boton/tree_bark_03_1k_jpg/tree_bark_03_rough_AO_1k_Auto1.uasset'
+[2020.04.12-19.49.21:051][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Level_1/cuadro/autumn] ([2] browsable assets)...
+[2020.04.12-19.49.21:053][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/autumn.autumn]
+[2020.04.12-19.49.21:056][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/autumn.autumn_0]
+[2020.04.12-19.49.21:056][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/autumn]
+[2020.04.12-19.49.21:074][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/autumn_Auto18C7D215643B8CC60936835B5C24CBDC3.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/autumn_Auto1.uasset'
+[2020.04.12-19.49.21:075][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/1] ([1] browsable assets)...
+[2020.04.12-19.49.21:078][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/1.1]
+[2020.04.12-19.49.21:078][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/1]
+[2020.04.12-19.49.21:086][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/1_Auto163960A3C41E2131918E3669C8410A0DF.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/1_Auto1.uasset'
+[2020.04.12-19.49.21:087][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/2] ([1] browsable assets)...
+[2020.04.12-19.49.21:089][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/2.2]
+[2020.04.12-19.49.21:089][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/2]
+[2020.04.12-19.49.21:190][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/2_Auto1C111F7764709512E27314690C8B5CDFE.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/2_Auto1.uasset'
+[2020.04.12-19.49.21:191][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/3] ([1] browsable assets)...
+[2020.04.12-19.49.21:193][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/3.3]
+[2020.04.12-19.49.21:193][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/3]
+[2020.04.12-19.49.21:204][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/3_Auto16BBA028A4555929F5AF0B683C9C830A8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/3_Auto1.uasset'
+[2020.04.12-19.49.21:204][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/4] ([1] browsable assets)...
+[2020.04.12-19.49.21:207][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/4.4]
+[2020.04.12-19.49.21:207][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/4]
+[2020.04.12-19.49.21:219][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/4_Auto100CB3EA0426B08FA10847D882E5FEC4C.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/4_Auto1.uasset'
+[2020.04.12-19.49.21:220][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/5] ([1] browsable assets)...
+[2020.04.12-19.49.21:223][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/5.5]
+[2020.04.12-19.49.21:223][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/5]
+[2020.04.12-19.49.21:233][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/5_Auto14421C20046D5255A2BA313A3AE2AD2C1.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/5_Auto1.uasset'
+[2020.04.12-19.49.21:233][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/6] ([1] browsable assets)...
+[2020.04.12-19.49.21:236][934]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level_1/cuadro/capas/6.6]
+[2020.04.12-19.49.21:236][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/6]
+[2020.04.12-19.49.21:248][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/6_Auto17ED6E61A4088F7A72184B2BDEFC74E23.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/6_Auto1.uasset'
+[2020.04.12-19.49.21:249][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/marco_1] ([1] browsable assets)...
+[2020.04.12-19.49.21:257][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level_1/cuadro/capas/marco_1.marco_1]
+[2020.04.12-19.49.21:257][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/marco_1]
+[2020.04.12-19.49.21:270][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/marco_1_Auto1DE146B5E433F5024E835B5B3A4C0054F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/marco_1_Auto1.uasset'
+[2020.04.12-19.49.21:271][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/01_-_Default] ([1] browsable assets)...
+[2020.04.12-19.49.21:279][934]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Level_1/cuadro/capas/01_-_Default.01_-_Default]
+[2020.04.12-19.49.21:279][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/01_-_Default]
+[2020.04.12-19.49.21:292][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/01_-_Default_Auto13A82799C4BCE21BBB2CE79A62F3AD2EA.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/01_-_Default_Auto1.uasset'
+[2020.04.12-19.49.21:292][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_1/cuadro/capas/marco_2] ([1] browsable assets)...
+[2020.04.12-19.49.21:300][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level_1/cuadro/capas/marco_2.marco_2]
+[2020.04.12-19.49.21:300][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1/cuadro/capas/marco_2]
+[2020.04.12-19.49.21:313][934]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/marco_2_Auto19C6C5370424E06AB5E2D11B6474F57E8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Autosaves/Game/Level_1/cuadro/capas/marco_2_Auto1.uasset'
+[2020.04.12-19.49.21:314][934]LogFileHelpers: Auto-saving content packages took 0.687
+[2020.04.12-19.49.27:827][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.12-19.49.31:137][696]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.12-19.49.31:322][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.04.12-19.49.32:912][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.04.12-19.49.35:155][881]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.12-19.49.35:258][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.12-19.50.06:978][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button ao.jpg)
+[2020.04.12-19.50.07:003][  0]LogTexture: Display: Building textures: button_ao (AutoDXT, 1024X1024)
+[2020.04.12-19.50.07:348][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button diff.jpg)
+[2020.04.12-19.50.07:384][  0]LogTexture: Display: Building textures: button_diff (AutoDXT, 1024X1024)
+[2020.04.12-19.50.07:805][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button disp.jpg)
+[2020.04.12-19.50.07:824][  0]LogTexture: Display: Building textures: button_disp (AutoDXT, 1024X1024)
+[2020.04.12-19.50.07:933][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button nor.jpg)
+[2020.04.12-19.50.07:983][  0]LogTexture: Display: Building textures: button_nor (BC5, 1024X1024)
+[2020.04.12-19.50.08:090][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button rough.jpg)
+[2020.04.12-19.50.08:112][  0]LogTexture: Display: Building textures: button_rough (AutoDXT, 1024X1024)
+[2020.04.12-19.50.08:221][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\maps/button.png)
+[2020.04.12-19.50.08:252][  0]LogTexture: Display: Building textures: button (AutoDXT, 1024X1024)
+[2020.04.12-19.50.25:722][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\button base.FBX)
+[2020.04.12-19.50.25:730][389]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\button base.FBX
+[2020.04.12-19.50.25:735][389]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.50.28:475][389]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.50.28:505][389]LogLinker: Failed to load '/Game/Level_1/Button/button': Can't find file.
+[2020.04.12-19.50.28:506][389]LogLinker: Failed to load '/Game/Level_1/Button/button': Can't find file.
+[2020.04.12-19.50.28:552][389]LogTexture: Display: Building textures: button (AutoDXT, 1024X1024)
+[2020.04.12-19.50.28:717][389]LogMaterial: Display: Missing cached shader map for material Material__30, compiling. 
+[2020.04.12-19.50.28:728][389]LogFbx: Display: Triangulating static mesh Box002
+[2020.04.12-19.50.28:753][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.12-19.50.28:753][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.12-19.50.28:754][389]LogStaticMesh: Building static mesh button_base...
+[2020.04.12-19.50.28:759][389]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/Button/button_base.button_base
+[2020.04.12-19.50.28:765][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.50.28:814][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\button click.FBX)
+[2020.04.12-19.50.28:824][389]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\Boton\button click.FBX
+[2020.04.12-19.50.28:829][389]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.50.28:832][389]LogFbx: Display: Triangulating static mesh Box001
+[2020.04.12-19.50.28:861][389]LogStaticMesh: Building static mesh button_click...
+[2020.04.12-19.50.28:866][389]LogStaticMesh: Built static mesh [0.01s] /Game/Level_1/Button/button_click.button_click
+[2020.04.12-19.50.28:874][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.50.41:428][389]LogSlate: Window 'Message' being destroyed
+[2020.04.12-19.50.41:452][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.12-19.50.41:530][389]LogUObjectGlobals: Warning: Could not delete
+[2020.04.12-19.50.45:791][389]LogSlate: Window 'Message' being destroyed
+[2020.04.12-19.50.45:795][389]LogAssetTools: Warning: Failed to delete '/Game/Level_1/Button/button'. The asset is referenced by other content.
+[2020.04.12-19.50.57:385][259]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.50.57:389][259]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.51.01:917][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.12-19.51.03:804][756]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.12-19.51.04:149][756]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Level_1/Button/button.button
+[2020.04.12-19.51.05:247][756]LogMaterial: Display: Missing cached shader map for material Material__30, compiling. 
+[2020.04.12-19.51.05:252][756]LogMaterial: Warning: /Game/Level_1/Button/Material__30.Material__30 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.12-19.51.05:252][756]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.12-19.51.05:256][756]LogMaterial: Display: Missing cached shader map for material Material__30, compiling. 
+[2020.04.12-19.51.05:256][756]LogMaterial: Warning: /Game/Level_1/Button/Material__30.Material__30 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.12-19.51.05:256][756]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.12-19.51.05:362][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.12-19.52.26:632][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\1.png)
+[2020.04.12-19.52.26:639][444]LogTexture: Display: Building textures: 1 (BGRA8, 507X1002)
+[2020.04.12-19.52.26:651][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\2.png)
+[2020.04.12-19.52.26:658][444]LogTexture: Display: Building textures: 2 (BGRA8, 507X1002)
+[2020.04.12-19.52.26:670][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\3.png)
+[2020.04.12-19.52.26:679][444]LogTexture: Display: Building textures: 3 (BGRA8, 507X1002)
+[2020.04.12-19.52.26:691][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\4.png)
+[2020.04.12-19.52.26:713][444]LogTexture: Display: Building textures: 4 (BGRA8, 507X1002)
+[2020.04.12-19.52.26:724][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\5.png)
+[2020.04.12-19.52.26:746][444]LogTexture: Display: Building textures: 5 (BGRA8, 507X1002)
+[2020.04.12-19.52.26:758][444]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\6.png)
+[2020.04.12-19.52.26:779][444]LogTexture: Display: Building textures: 6 (BGRA8, 507X1002)
+[2020.04.12-19.52.43:252][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\marco 1.FBX)
+[2020.04.12-19.52.43:259][138]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\marco 1.FBX
+[2020.04.12-19.52.43:264][138]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.52.46:012][138]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.52.46:035][138]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2020.04.12-19.52.46:062][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.04.12-19.52.46:062][138]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.12-19.52.46:063][138]LogStaticMesh: Building static mesh marco_1...
+[2020.04.12-19.52.46:066][138]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/Picture/marco_1.marco_1
+[2020.04.12-19.52.46:066][138]LogStaticMesh: Warning: marco_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.12-19.52.46:066][138]LogStaticMesh: Warning: marco_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.52.46:071][138]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.52.46:071][138]FBXImport: Warning: marco_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.12-19.52.46:071][138]FBXImport: Warning: marco_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.52.46:120][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\marco 2.FBX)
+[2020.04.12-19.52.46:129][138]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Nivel 1\cuadro\capas\marco 2.FBX
+[2020.04.12-19.52.46:134][138]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.52.46:137][138]LogStaticMesh: Building static mesh marco_2...
+[2020.04.12-19.52.46:140][138]LogStaticMesh: Built static mesh [0.00s] /Game/Level_1/Picture/marco_2.marco_2
+[2020.04.12-19.52.46:140][138]LogStaticMesh: Warning: marco_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.52.46:145][138]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.52.46:145][138]FBXImport: Warning: marco_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.52.51:988][810]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.52.51:991][810]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.52.54:032][ 28]LogActorFactory: Actor Factory created marco_1
+[2020.04.12-19.54.36:661][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0000_Grupo-3.png)
+[2020.04.12-19.54.36:666][832]LogTexture: Display: Building textures: the_rose_0000s_0000_Grupo-3 (BGRA8, 377X306)
+[2020.04.12-19.54.36:674][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0001_Grupo-2.png)
+[2020.04.12-19.54.36:679][832]LogTexture: Display: Building textures: the_rose_0000s_0001_Grupo-2 (BGRA8, 377X306)
+[2020.04.12-19.54.36:685][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0002_Grupo-4.png)
+[2020.04.12-19.54.36:691][832]LogTexture: Display: Building textures: the_rose_0000s_0002_Grupo-4 (BGRA8, 377X306)
+[2020.04.12-19.54.36:696][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0003_Grupo-5.png)
+[2020.04.12-19.54.36:700][832]LogTexture: Display: Building textures: the_rose_0000s_0003_Grupo-5 (BGRA8, 377X306)
+[2020.04.12-19.54.36:706][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0004_Grupo-6.png)
+[2020.04.12-19.54.36:712][832]LogTexture: Display: Building textures: the_rose_0000s_0004_Grupo-6 (BGRA8, 377X306)
+[2020.04.12-19.54.36:718][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0005_Grupo-7.png)
+[2020.04.12-19.54.36:724][832]LogTexture: Display: Building textures: the_rose_0000s_0005_Grupo-7 (BGRA8, 377X306)
+[2020.04.12-19.54.36:730][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0006_Grupo-8.png)
+[2020.04.12-19.54.36:736][832]LogTexture: Display: Building textures: the_rose_0000s_0006_Grupo-8 (BGRA8, 377X306)
+[2020.04.12-19.54.36:742][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0007_Grupo-9.png)
+[2020.04.12-19.54.36:745][832]LogTexture: Display: Building textures: the_rose_0000s_0007_Grupo-9 (BGRA8, 377X306)
+[2020.04.12-19.54.36:751][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0008_Grupo-10.png)
+[2020.04.12-19.54.36:757][832]LogTexture: Display: Building textures: the_rose_0000s_0008_Grupo-10 (BGRA8, 377X306)
+[2020.04.12-19.54.36:764][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0009_Grupo-11.png)
+[2020.04.12-19.54.36:770][832]LogTexture: Display: Building textures: the_rose_0000s_0009_Grupo-11 (BGRA8, 377X306)
+[2020.04.12-19.54.36:776][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0010_Grupo-12.png)
+[2020.04.12-19.54.36:782][832]LogTexture: Display: Building textures: the_rose_0000s_0010_Grupo-12 (BGRA8, 377X306)
+[2020.04.12-19.54.36:789][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0011_Grupo-13.png)
+[2020.04.12-19.54.36:794][832]LogTexture: Display: Building textures: the_rose_0000s_0011_Grupo-13 (BGRA8, 377X306)
+[2020.04.12-19.54.36:800][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0012_Grupo-14.png)
+[2020.04.12-19.54.36:806][832]LogTexture: Display: Building textures: the_rose_0000s_0012_Grupo-14 (BGRA8, 377X306)
+[2020.04.12-19.54.36:840][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0013_Grupo-15.png)
+[2020.04.12-19.54.36:846][832]LogTexture: Display: Building textures: the_rose_0000s_0013_Grupo-15 (BGRA8, 377X306)
+[2020.04.12-19.54.36:853][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0014_Grupo-16.png)
+[2020.04.12-19.54.36:859][832]LogTexture: Display: Building textures: the_rose_0000s_0014_Grupo-16 (BGRA8, 377X306)
+[2020.04.12-19.54.36:869][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0015_Grupo-17.png)
+[2020.04.12-19.54.36:875][832]LogTexture: Display: Building textures: the_rose_0000s_0015_Grupo-17 (BGRA8, 377X306)
+[2020.04.12-19.54.36:881][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0016_Grupo-18.png)
+[2020.04.12-19.54.36:887][832]LogTexture: Display: Building textures: the_rose_0000s_0016_Grupo-18 (BGRA8, 377X306)
+[2020.04.12-19.54.36:892][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0017_Capa-2.png)
+[2020.04.12-19.54.36:895][832]LogTexture: Display: Building textures: the_rose_0000s_0017_Capa-2 (BGRA8, 377X306)
+[2020.04.12-19.54.36:899][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0018_Capa-3.png)
+[2020.04.12-19.54.36:902][832]LogTexture: Display: Building textures: the_rose_0000s_0018_Capa-3 (BGRA8, 377X306)
+[2020.04.12-19.54.36:907][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0019_Capa-4.png)
+[2020.04.12-19.54.36:910][832]LogTexture: Display: Building textures: the_rose_0000s_0019_Capa-4 (BGRA8, 377X306)
+[2020.04.12-19.54.36:914][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0020_Capa-5.png)
+[2020.04.12-19.54.36:917][832]LogTexture: Display: Building textures: the_rose_0000s_0020_Capa-5 (BGRA8, 377X306)
+[2020.04.12-19.54.36:921][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0021_Capa-6.png)
+[2020.04.12-19.54.36:924][832]LogTexture: Display: Building textures: the_rose_0000s_0021_Capa-6 (BGRA8, 377X306)
+[2020.04.12-19.54.36:929][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0022_Capa-7.png)
+[2020.04.12-19.54.36:932][832]LogTexture: Display: Building textures: the_rose_0000s_0022_Capa-7 (BGRA8, 377X306)
+[2020.04.12-19.54.36:955][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0023_Grupo-19.png)
+[2020.04.12-19.54.36:960][832]LogTexture: Display: Building textures: the_rose_0000s_0023_Grupo-19 (BGRA8, 377X306)
+[2020.04.12-19.54.36:969][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0024_Grupo-20.png)
+[2020.04.12-19.54.36:973][832]LogTexture: Display: Building textures: the_rose_0000s_0024_Grupo-20 (BGRA8, 377X306)
+[2020.04.12-19.54.36:991][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0025_Grupo-21.png)
+[2020.04.12-19.54.36:997][832]LogTexture: Display: Building textures: the_rose_0000s_0025_Grupo-21 (BGRA8, 377X306)
+[2020.04.12-19.54.37:008][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0026_Grupo-22.png)
+[2020.04.12-19.54.37:014][832]LogTexture: Display: Building textures: the_rose_0000s_0026_Grupo-22 (BGRA8, 377X306)
+[2020.04.12-19.54.37:029][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0027_Capa-8.png)
+[2020.04.12-19.54.37:034][832]LogTexture: Display: Building textures: the_rose_0000s_0027_Capa-8 (BGRA8, 377X306)
+[2020.04.12-19.54.37:049][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0028_Capa-9.png)
+[2020.04.12-19.54.37:053][832]LogTexture: Display: Building textures: the_rose_0000s_0028_Capa-9 (BGRA8, 377X306)
+[2020.04.12-19.54.37:094][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0029_Capa-10.png)
+[2020.04.12-19.54.37:098][832]LogTexture: Display: Building textures: the_rose_0000s_0029_Capa-10 (BGRA8, 377X306)
+[2020.04.12-19.54.37:116][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0030_Capa-11.png)
+[2020.04.12-19.54.37:119][832]LogTexture: Display: Building textures: the_rose_0000s_0030_Capa-11 (BGRA8, 377X306)
+[2020.04.12-19.54.37:135][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0031_Capa-12.png)
+[2020.04.12-19.54.37:138][832]LogTexture: Display: Building textures: the_rose_0000s_0031_Capa-12 (BGRA8, 377X306)
+[2020.04.12-19.54.37:150][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0032_Capa-13.png)
+[2020.04.12-19.54.37:154][832]LogTexture: Display: Building textures: the_rose_0000s_0032_Capa-13 (BGRA8, 377X306)
+[2020.04.12-19.54.37:168][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0033_Capa-14.png)
+[2020.04.12-19.54.37:171][832]LogTexture: Display: Building textures: the_rose_0000s_0033_Capa-14 (BGRA8, 377X306)
+[2020.04.12-19.54.37:177][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0034_Capa-15.png)
+[2020.04.12-19.54.37:180][832]LogTexture: Display: Building textures: the_rose_0000s_0034_Capa-15 (BGRA8, 377X306)
+[2020.04.12-19.54.37:186][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0035_Capa-16.png)
+[2020.04.12-19.54.37:189][832]LogTexture: Display: Building textures: the_rose_0000s_0035_Capa-16 (BGRA8, 377X306)
+[2020.04.12-19.54.37:198][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0036_Capa-17.png)
+[2020.04.12-19.54.37:201][832]LogTexture: Display: Building textures: the_rose_0000s_0036_Capa-17 (BGRA8, 377X306)
+[2020.04.12-19.54.37:207][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0037_Capa-18.png)
+[2020.04.12-19.54.37:210][832]LogTexture: Display: Building textures: the_rose_0000s_0037_Capa-18 (BGRA8, 377X306)
+[2020.04.12-19.54.37:220][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0038_Capa-19.png)
+[2020.04.12-19.54.37:222][832]LogTexture: Display: Building textures: the_rose_0000s_0038_Capa-19 (BGRA8, 377X306)
+[2020.04.12-19.54.37:237][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0039_Capa-20.png)
+[2020.04.12-19.54.37:240][832]LogTexture: Display: Building textures: the_rose_0000s_0039_Capa-20 (BGRA8, 377X306)
+[2020.04.12-19.54.37:251][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0040_Capa-21.png)
+[2020.04.12-19.54.37:254][832]LogTexture: Display: Building textures: the_rose_0000s_0040_Capa-21 (BGRA8, 377X306)
+[2020.04.12-19.54.37:271][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0041_Capa-22.png)
+[2020.04.12-19.54.37:274][832]LogTexture: Display: Building textures: the_rose_0000s_0041_Capa-22 (BGRA8, 377X306)
+[2020.04.12-19.54.37:287][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0042_Capa-23.png)
+[2020.04.12-19.54.37:289][832]LogTexture: Display: Building textures: the_rose_0000s_0042_Capa-23 (BGRA8, 377X306)
+[2020.04.12-19.54.37:309][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0043_Capa-24.png)
+[2020.04.12-19.54.37:312][832]LogTexture: Display: Building textures: the_rose_0000s_0043_Capa-24 (BGRA8, 377X306)
+[2020.04.12-19.54.37:334][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0044_Capa-25.png)
+[2020.04.12-19.54.37:337][832]LogTexture: Display: Building textures: the_rose_0000s_0044_Capa-25 (BGRA8, 377X306)
+[2020.04.12-19.54.37:346][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0045_Capa-26.png)
+[2020.04.12-19.54.37:349][832]LogTexture: Display: Building textures: the_rose_0000s_0045_Capa-26 (BGRA8, 377X306)
+[2020.04.12-19.54.37:363][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0046_Capa-27.png)
+[2020.04.12-19.54.37:366][832]LogTexture: Display: Building textures: the_rose_0000s_0046_Capa-27 (BGRA8, 377X306)
+[2020.04.12-19.54.37:372][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0047_Capa-28.png)
+[2020.04.12-19.54.37:374][832]LogTexture: Display: Building textures: the_rose_0000s_0047_Capa-28 (BGRA8, 377X306)
+[2020.04.12-19.54.37:389][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0048_Capa-29.png)
+[2020.04.12-19.54.37:392][832]LogTexture: Display: Building textures: the_rose_0000s_0048_Capa-29 (BGRA8, 377X306)
+[2020.04.12-19.54.37:397][832]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Nivel 4\capas the rose\the_rose_0000s_0049_Capa-1-copia.png)
+[2020.04.12-19.54.37:400][832]LogTexture: Display: Building textures: the_rose_0000s_0049_Capa-1-copia (BGRA8, 377X306)
+[2020.04.12-19.54.51:494][467]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Level_4/Layers/the_rose_0000s_0006_Grupo-8.the_rose_0000s_0006_Grupo-8
+[2020.04.12-19.54.51:547][467]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.12-19.54.55:976][925]LogSlate: Window 'the_rose_0000s_0006_Grupo-8' being destroyed
+[2020.04.12-19.54.55:980][925]LogSlate: Window 'the_rose_0000s_0006_Grupo-8' being destroyed
+[2020.04.12-19.58.23:518][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_cuadro1.FBX)
+[2020.04.12-19.58.23:526][116]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_cuadro1.FBX
+[2020.04.12-19.58.23:531][116]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.58.27:861][116]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.58.27:897][116]LogStaticMesh: Building static mesh pared_cuadro1...
+[2020.04.12-19.58.27:899][116]LogStaticMesh: Built static mesh [0.00s] /Game/Main_Room/Walls/pared_cuadro1.pared_cuadro1
+[2020.04.12-19.58.27:905][116]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.58.27:993][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_cuadro2.FBX)
+[2020.04.12-19.58.28:003][116]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_cuadro2.FBX
+[2020.04.12-19.58.28:007][116]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.58.28:009][116]LogFbx: Display: Triangulating static mesh cuadro2
+[2020.04.12-19.58.28:012][116]LogStaticMesh: Building static mesh pared_cuadro2...
+[2020.04.12-19.58.28:014][116]LogStaticMesh: Built static mesh [0.00s] /Game/Main_Room/Walls/pared_cuadro2.pared_cuadro2
+[2020.04.12-19.58.28:019][116]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.58.28:050][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_lampara.FBX)
+[2020.04.12-19.58.28:058][116]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_lampara.FBX
+[2020.04.12-19.58.28:062][116]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.58.28:064][116]LogFbx: Display: Triangulating static mesh lampara
+[2020.04.12-19.58.28:067][116]LogStaticMesh: Building static mesh pared_lampara...
+[2020.04.12-19.58.28:069][116]LogStaticMesh: Built static mesh [0.00s] /Game/Main_Room/Walls/pared_lampara.pared_lampara
+[2020.04.12-19.58.28:069][116]LogStaticMesh: Warning: pared_lampara has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.04.12-19.58.28:069][116]LogStaticMesh: Warning: pared_lampara has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.58.28:074][116]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.58.28:074][116]FBXImport: Warning: pared_lampara has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.04.12-19.58.28:074][116]FBXImport: Warning: pared_lampara has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.58.28:121][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_mesita.FBX)
+[2020.04.12-19.58.28:130][116]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\pared_mesita.FBX
+[2020.04.12-19.58.28:134][116]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.58.28:136][116]LogFbx: Display: Triangulating static mesh mesita
+[2020.04.12-19.58.28:139][116]LogStaticMesh: Building static mesh pared_mesita...
+[2020.04.12-19.58.28:141][116]LogStaticMesh: Built static mesh [0.00s] /Game/Main_Room/Walls/pared_mesita.pared_mesita
+[2020.04.12-19.58.28:141][116]LogStaticMesh: Warning: pared_mesita has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.04.12-19.58.28:145][116]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.58.28:145][116]FBXImport: Warning: pared_mesita has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.04.12-19.58.30:769][424]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.58.30:772][424]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.58.50:284][679]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\puerta.FBX)
+[2020.04.12-19.58.50:291][679]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\puerta.FBX
+[2020.04.12-19.58.50:296][679]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.58.51:918][679]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.58.51:949][679]LogStaticMesh: Building static mesh puerta...
+[2020.04.12-19.58.51:954][679]LogStaticMesh: Built static mesh [0.00s] /Game/Main_Room/Doors/puerta.puerta
+[2020.04.12-19.58.51:959][679]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.58.53:653][875]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.58.53:656][875]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.58.57:024][268]LogActorFactory: Actor Factory created puerta
+[2020.04.12-19.58.58:177][404]LogActorFactory: Actor Factory created puerta
+[2020.04.12-19.59.06:556][355]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Estudios\Enti\Arte moderno\UCME\Sala principal\marco_Puerta.FBX)
+[2020.04.12-19.59.06:564][355]LogFbx: Loading FBX Scene from D:\Estudios\Enti\Arte moderno\UCME\Sala principal\marco_Puerta.FBX
+[2020.04.12-19.59.06:569][355]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.12-19.59.07:936][355]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.12-19.59.07:983][355]LogStaticMesh: Building static mesh marco_Puerta...
+[2020.04.12-19.59.08:000][355]LogStaticMesh: Built static mesh [0.02s] /Game/Main_Room/Doors/marco_Puerta.marco_Puerta
+[2020.04.12-19.59.08:010][355]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.12-19.59.10:677][660]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.59.10:680][660]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-19.59.11:501][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (puerta)
+[2020.04.12-19.59.12:001][815]Cmd: DELETE
+[2020.04.12-19.59.12:001][815]Cmd: ACTOR DELETE
+[2020.04.12-19.59.12:053][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-19.59.12:089][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.04.12-19.59.12:104][815]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.04.12-19.59.13:964][ 25]LogActorFactory: Actor Factory created marco_Puerta
+[2020.04.12-19.59.13:965][ 25]LogActorFactory: Actor Factory created puerta
+[2020.04.12-19.59.15:138][165]LogActorFactory: Actor Factory created marco_Puerta
+[2020.04.12-19.59.15:150][165]LogActorFactory: Actor Factory created puerta
+[2020.04.12-19.59.38:485][947]Cmd: DELETE
+[2020.04.12-19.59.38:485][947]Cmd: ACTOR DELETE
+[2020.04.12-19.59.38:486][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-19.59.38:486][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-19.59.38:507][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.12-19.59.38:509][947]LogEditorActor: Deleted 2 Actors (0.024 secs)
+[2020.04.12-19.59.50:557][357]LogActorFactory: Actor Factory created pared_cuadro1
+[2020.04.12-19.59.50:557][357]LogActorFactory: Actor Factory created pared_cuadro2
+[2020.04.12-19.59.50:558][357]LogActorFactory: Actor Factory created pared_lampara
+[2020.04.12-19.59.50:558][357]LogActorFactory: Actor Factory created pared_mesita
+[2020.04.12-19.59.56:370][ 54]LogActorFactory: Actor Factory created pared_cuadro1
+[2020.04.12-19.59.56:381][ 54]LogActorFactory: Actor Factory created pared_cuadro2
+[2020.04.12-19.59.56:392][ 54]LogActorFactory: Actor Factory created pared_lampara
+[2020.04.12-19.59.56:403][ 54]LogActorFactory: Actor Factory created pared_mesita
+[2020.04.12-20.00.31:133][197]Cmd: DELETE
+[2020.04.12-20.00.31:133][197]Cmd: ACTOR DELETE
+[2020.04.12-20.00.31:135][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.00.31:135][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.00.31:135][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.00.31:135][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.00.31:156][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.12-20.00.31:158][197]LogEditorActor: Deleted 4 Actors (0.025 secs)
+[2020.04.12-20.00.51:833][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.04.12-20.00.51:931][175]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Minimal_Default013BDB2E4FFDE89EC91E78A53AD1111F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.04.12-20.00.52:007][175]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Minimal_Default_BuiltData0E72205540C1B28E6951618225E48772.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.04.12-20.00.52:017][175]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.12-20.00.52:017][175]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.04.12-20.00.52:017][175]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.04.12-20.00.57:123][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.12-20.00.57:144][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/cuadro/autumn" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/cuadro/autumn.uasset" SILENT=true
+[2020.04.12-20.00.57:149][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/autumnB683451549C743004751BBABF3B959ED.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/cuadro/autumn.uasset'
+[2020.04.12-20.00.57:155][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button_ao" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_ao.uasset" SILENT=true
+[2020.04.12-20.00.57:258][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_ao9D4CF32941279BC9E79C0B8A23E4A303.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_ao.uasset'
+[2020.04.12-20.00.57:264][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button_diff" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_diff.uasset" SILENT=true
+[2020.04.12-20.00.57:418][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_diff7D0D3FBF482E084604154BAABCE091D4.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_diff.uasset'
+[2020.04.12-20.00.57:424][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button_disp" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_disp.uasset" SILENT=true
+[2020.04.12-20.00.57:502][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_disp41061E1943FF5152637209A850D02A03.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_disp.uasset'
+[2020.04.12-20.00.57:508][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button_nor" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_nor.uasset" SILENT=true
+[2020.04.12-20.00.57:693][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_norE055420D4FA366A13F003B9CB8DF34AC.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_nor.uasset'
+[2020.04.12-20.00.57:700][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button_rough" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_rough.uasset" SILENT=true
+[2020.04.12-20.00.57:785][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_roughC988A71642B5A46C2A6890BAA92E40D8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button_rough.uasset'
+[2020.04.12-20.00.57:789][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/maps/button" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button.uasset" SILENT=true
+[2020.04.12-20.00.57:987][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/buttonDCBBE07F44D7E998B9AD7581931604F2.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/maps/button.uasset'
+[2020.04.12-20.00.57:997][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/button_base" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/button_base.uasset" SILENT=true
+[2020.04.12-20.00.58:012][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_base576B893C47313824B6BD39B580FC9171.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/button_base.uasset'
+[2020.04.12-20.00.58:020][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/Material__30" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/Material__30.uasset" SILENT=true
+[2020.04.12-20.00.58:033][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/Material__307C038CD74C09B92D659B618111A0ED2A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/Material__30.uasset'
+[2020.04.12-20.00.58:042][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Button/button_click" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/button_click.uasset" SILENT=true
+[2020.04.12-20.00.58:056][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/button_clickC3F5B39943621B0F7F7E94A2EC42CDF9.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Button/button_click.uasset'
+[2020.04.12-20.00.58:059][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/1" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/1.uasset" SILENT=true
+[2020.04.12-20.00.58:084][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/1856415D54AD301AFD468028E37008CAB.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/1.uasset'
+[2020.04.12-20.00.58:087][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/2" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/2.uasset" SILENT=true
+[2020.04.12-20.00.58:129][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/27415B71C4CE6A3DA5A97D79577117444.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/2.uasset'
+[2020.04.12-20.00.58:132][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/3" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/3.uasset" SILENT=true
+[2020.04.12-20.00.58:182][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/3F1DE19C248D903027A11819A2C3B5640.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/3.uasset'
+[2020.04.12-20.00.58:185][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/4" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/4.uasset" SILENT=true
+[2020.04.12-20.00.58:269][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/4693DFD2F4713F8B4D9F497A21959D09B.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/4.uasset'
+[2020.04.12-20.00.58:272][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/5" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/5.uasset" SILENT=true
+[2020.04.12-20.00.58:353][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/58AE1350142E41BCB448411AC67CDA391.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/5.uasset'
+[2020.04.12-20.00.58:358][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/Layers/6" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/6.uasset" SILENT=true
+[2020.04.12-20.00.58:444][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/6BEAF859646443AB5547525BFA68D6A6A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/Layers/6.uasset'
+[2020.04.12-20.00.58:452][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/marco_1" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/marco_1.uasset" SILENT=true
+[2020.04.12-20.00.58:465][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/marco_18A9F3DD649AD508659A5A3AFEE156A11.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/marco_1.uasset'
+[2020.04.12-20.00.58:475][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/01_-_Default" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/01_-_Default.uasset" SILENT=true
+[2020.04.12-20.00.58:486][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/01_-_DefaultE039467D4FA614BBE56100A10C59058D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/01_-_Default.uasset'
+[2020.04.12-20.00.58:496][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Picture/marco_2" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/marco_2.uasset" SILENT=true
+[2020.04.12-20.00.58:522][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/marco_25F7B72B044C81FAAB0FF608BD721015C.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_1/Picture/marco_2.uasset'
+[2020.04.12-20.00.58:561][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0000_Grupo-36FD1B3AC4188E7EF04E10EA54CB3037F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0000_Grupo-3.uasset'
+[2020.04.12-20.00.58:600][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0001_Grupo-29047C3044DC86A8A67C67498859937F3.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0001_Grupo-2.uasset'
+[2020.04.12-20.00.58:642][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0002_Grupo-4C5F4E8BF4BCC610B4B73D99F82198959.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0002_Grupo-4.uasset'
+[2020.04.12-20.00.58:667][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0003_Grupo-524321DA44DC650AE48EE22950D4C1947.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0003_Grupo-5.uasset'
+[2020.04.12-20.00.58:708][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0004_Grupo-6A893B4804936E224AEA07C8376991F53.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0004_Grupo-6.uasset'
+[2020.04.12-20.00.58:745][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0005_Grupo-70C441D8F437BB6FF6C3810968B8E19E6.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0005_Grupo-7.uasset'
+[2020.04.12-20.00.58:787][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0006_Grupo-89912EFFC4F05847BA2AE458046FFA363.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0006_Grupo-8.uasset'
+[2020.04.12-20.00.58:824][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0007_Grupo-9021F52514079B4BE6AB5D380B9547F71.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0007_Grupo-9.uasset'
+[2020.04.12-20.00.58:865][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0008_Grupo-101FCBC3984C56879DF84E9E82CBD9D09D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0008_Grupo-10.uasset'
+[2020.04.12-20.00.58:903][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0009_Grupo-1130140D5B4EF14AB97B51A69F483F74D3.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0009_Grupo-11.uasset'
+[2020.04.12-20.00.58:942][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0010_Grupo-12D78F1D6748AAA6362413AF86588BEB00.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0010_Grupo-12.uasset'
+[2020.04.12-20.00.58:982][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0011_Grupo-13E514B0464B571948431F6EA5278E031D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0011_Grupo-13.uasset'
+[2020.04.12-20.00.59:021][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0012_Grupo-1444BAAA6547DD55F33E055A9D0FD46D40.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0012_Grupo-14.uasset'
+[2020.04.12-20.00.59:059][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0013_Grupo-153BE9619243CA40054EBE8484F2CA44CB.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0013_Grupo-15.uasset'
+[2020.04.12-20.00.59:103][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0014_Grupo-16EADC50014225C07CA16912B27CFF2F8D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0014_Grupo-16.uasset'
+[2020.04.12-20.00.59:171][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0015_Grupo-176C9584C346DC04B53FEBE7A3049FAB2E.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0015_Grupo-17.uasset'
+[2020.04.12-20.00.59:213][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0016_Grupo-18DC858DA54C9AFC7B4D5806A35BD06C9A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0016_Grupo-18.uasset'
+[2020.04.12-20.00.59:230][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0017_Capa-208068FFF46561F19DEA63A811088F625.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0017_Capa-2.uasset'
+[2020.04.12-20.00.59:246][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0018_Capa-3780166B9471B73E845A53B885AEC3C17.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0018_Capa-3.uasset'
+[2020.04.12-20.00.59:263][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0019_Capa-4C67D96064AA8A96FD2DF1BA248B4F303.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0019_Capa-4.uasset'
+[2020.04.12-20.00.59:280][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0020_Capa-5CCD03A9B4032E3C950CFD28BBE4AA9F6.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0020_Capa-5.uasset'
+[2020.04.12-20.00.59:298][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0021_Capa-621A334614E55D5B03826D3B2E7D8885F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0021_Capa-6.uasset'
+[2020.04.12-20.00.59:317][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0022_Capa-78BD13ECB40F0024CA1EB0C8CD2AF286A.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0022_Capa-7.uasset'
+[2020.04.12-20.00.59:351][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0023_Grupo-19E43585E9489CA047E605769A4CC33C1B.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0023_Grupo-19.uasset'
+[2020.04.12-20.00.59:378][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0024_Grupo-20D6AA08E348E065D8AB56739086B55F1F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0024_Grupo-20.uasset'
+[2020.04.12-20.00.59:419][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0025_Grupo-213E5A3BFF4CE4D2001836C6A98D6C474E.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0025_Grupo-21.uasset'
+[2020.04.12-20.00.59:464][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0026_Grupo-22657E77CC410D1A4A42016DA2677DE05C.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0026_Grupo-22.uasset'
+[2020.04.12-20.00.59:508][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0027_Capa-8015318634F9989B2BAE04CA76AB0994B.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0027_Capa-8.uasset'
+[2020.04.12-20.00.59:541][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0028_Capa-92F13A8B347310B2A0A4924BF41227578.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0028_Capa-9.uasset'
+[2020.04.12-20.00.59:571][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0029_Capa-108B533D5A426FF4534DA5DF8039D2BE1B.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0029_Capa-10.uasset'
+[2020.04.12-20.00.59:591][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0030_Capa-116F38B5CE4CF2409C5B10179C7AEDEF03.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0030_Capa-11.uasset'
+[2020.04.12-20.00.59:610][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0031_Capa-12B87C6CC8438EDB859195039619CD7F7F.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0031_Capa-12.uasset'
+[2020.04.12-20.00.59:631][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0032_Capa-132D1C152443788209CF53249938B07C2D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0032_Capa-13.uasset'
+[2020.04.12-20.00.59:649][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0033_Capa-14C51DF1F04078726F3EBA30BF1856E428.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0033_Capa-14.uasset'
+[2020.04.12-20.00.59:731][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0034_Capa-15051F1D414CE4097F1DE88B9ADA9B44EE.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0034_Capa-15.uasset'
+[2020.04.12-20.00.59:750][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0035_Capa-16B9D5552C465CB3C69F0EA08D2E71D71B.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0035_Capa-16.uasset'
+[2020.04.12-20.00.59:767][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0036_Capa-1775BD04704CC263759ED7AC826CD9742D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0036_Capa-17.uasset'
+[2020.04.12-20.00.59:787][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0037_Capa-181DD250604C1525F5938B3D9EDB46D143.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0037_Capa-18.uasset'
+[2020.04.12-20.00.59:804][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0038_Capa-193943051242CCD2C87676F4ACBCD7DD94.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0038_Capa-19.uasset'
+[2020.04.12-20.00.59:823][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0039_Capa-20CD5743CF40DB76637DC813B420E28FD8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0039_Capa-20.uasset'
+[2020.04.12-20.00.59:841][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0040_Capa-212B25C0F34D1DAF5A929483B410B0BBA0.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0040_Capa-21.uasset'
+[2020.04.12-20.00.59:858][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0041_Capa-221BFEAE8B49AFE18A0E2DDEAAA3BA6B56.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0041_Capa-22.uasset'
+[2020.04.12-20.00.59:875][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0042_Capa-23503EC4BF4B74D1136F3278ACC0D943B5.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0042_Capa-23.uasset'
+[2020.04.12-20.00.59:890][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0043_Capa-24BD2C00C54DDDB9BF6C0ED48A9D4A4D4D.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0043_Capa-24.uasset'
+[2020.04.12-20.00.59:907][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0044_Capa-25F4849C0047309EDA603F5F8BE991BAFF.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0044_Capa-25.uasset'
+[2020.04.12-20.00.59:925][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0045_Capa-267C27325545FA276B1472C49BF19D7BF3.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0045_Capa-26.uasset'
+[2020.04.12-20.00.59:941][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0046_Capa-273D7CFE8A4C63A3302ECC8F8DBB20A936.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0046_Capa-27.uasset'
+[2020.04.12-20.00.59:956][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0047_Capa-2845D9F510457F69F8B0CFC9B3F0996596.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0047_Capa-28.uasset'
+[2020.04.12-20.00.59:973][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0048_Capa-29B76F939F45C29372A024BD842552EBA3.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0048_Capa-29.uasset'
+[2020.04.12-20.01.00:021][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/the_rose_0000s_0049_Capa-1-copiaBA8CFED240991DC4AA1E44BBAB9F70AF.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Level_4/Layers/the_rose_0000s_0049_Capa-1-copia.uasset'
+[2020.04.12-20.01.00:030][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Walls/pared_cuadro1" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_cuadro1.uasset" SILENT=true
+[2020.04.12-20.01.00:043][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/pared_cuadro1D646D8E5458634AD1C1C53BF4603FE37.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_cuadro1.uasset'
+[2020.04.12-20.01.00:052][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Walls/pared_cuadro2" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_cuadro2.uasset" SILENT=true
+[2020.04.12-20.01.00:065][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/pared_cuadro265F8528A4391CA48A9D4EAA0EF72E935.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_cuadro2.uasset'
+[2020.04.12-20.01.00:074][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Walls/pared_lampara" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_lampara.uasset" SILENT=true
+[2020.04.12-20.01.00:087][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/pared_lampara7D8F553D4A849CBB8453AE9F79EC30B8.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_lampara.uasset'
+[2020.04.12-20.01.00:097][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Walls/pared_mesita" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_mesita.uasset" SILENT=true
+[2020.04.12-20.01.00:111][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/pared_mesita3DD1C16C43C25C41913D238DA1A5F76C.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Walls/pared_mesita.uasset'
+[2020.04.12-20.01.00:120][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Doors/puerta" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Doors/puerta.uasset" SILENT=true
+[2020.04.12-20.01.00:134][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/puerta60A0713E4221CE39107FD784281BD173.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Doors/puerta.uasset'
+[2020.04.12-20.01.00:143][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Room/Doors/marco_Puerta" FILE="../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Doors/marco_Puerta.uasset" SILENT=true
+[2020.04.12-20.01.00:160][774]LogSavePackage: Moving '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Saved/marco_PuertaB6C227E1431044E347050DB884CAE416.tmp' to '../../../../../../Estudios/Enti/Arte moderno/UCME/UCME_project/Content/Main_Room/Doors/marco_Puerta.uasset'
+[2020.04.12-20.01.00:332][774]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button_ao.button_ao
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button_diff.button_diff
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button_disp.button_disp
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button_nor.button_nor
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button_rough.button_rough
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Button/maps/button.button
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating StaticMesh /Game/Level_1/Button/button_base.button_base
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Material /Game/Level_1/Button/Material__30.Material__30
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating StaticMesh /Game/Level_1/Button/button_click.button_click
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/1.1
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/2.2
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/3.3
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/4.4
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/5.5
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Texture2D /Game/Level_1/Picture/Layers/6.6
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating StaticMesh /Game/Level_1/Picture/marco_1.marco_1
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating Material /Game/Level_1/Picture/01_-_Default.01_-_Default
+[2020.04.12-20.01.00:332][774]LogContentValidation: Display: Validating StaticMesh /Game/Level_1/Picture/marco_2.marco_2
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0000_Grupo-3.the_rose_0000s_0000_Grupo-3
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0001_Grupo-2.the_rose_0000s_0001_Grupo-2
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0002_Grupo-4.the_rose_0000s_0002_Grupo-4
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0003_Grupo-5.the_rose_0000s_0003_Grupo-5
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0004_Grupo-6.the_rose_0000s_0004_Grupo-6
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0005_Grupo-7.the_rose_0000s_0005_Grupo-7
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0006_Grupo-8.the_rose_0000s_0006_Grupo-8
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0007_Grupo-9.the_rose_0000s_0007_Grupo-9
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0008_Grupo-10.the_rose_0000s_0008_Grupo-10
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0009_Grupo-11.the_rose_0000s_0009_Grupo-11
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0010_Grupo-12.the_rose_0000s_0010_Grupo-12
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0011_Grupo-13.the_rose_0000s_0011_Grupo-13
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0012_Grupo-14.the_rose_0000s_0012_Grupo-14
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0013_Grupo-15.the_rose_0000s_0013_Grupo-15
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0014_Grupo-16.the_rose_0000s_0014_Grupo-16
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0015_Grupo-17.the_rose_0000s_0015_Grupo-17
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0016_Grupo-18.the_rose_0000s_0016_Grupo-18
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0017_Capa-2.the_rose_0000s_0017_Capa-2
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0018_Capa-3.the_rose_0000s_0018_Capa-3
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0019_Capa-4.the_rose_0000s_0019_Capa-4
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0020_Capa-5.the_rose_0000s_0020_Capa-5
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0021_Capa-6.the_rose_0000s_0021_Capa-6
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0022_Capa-7.the_rose_0000s_0022_Capa-7
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0023_Grupo-19.the_rose_0000s_0023_Grupo-19
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0024_Grupo-20.the_rose_0000s_0024_Grupo-20
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0025_Grupo-21.the_rose_0000s_0025_Grupo-21
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0026_Grupo-22.the_rose_0000s_0026_Grupo-22
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0027_Capa-8.the_rose_0000s_0027_Capa-8
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0028_Capa-9.the_rose_0000s_0028_Capa-9
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0029_Capa-10.the_rose_0000s_0029_Capa-10
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0030_Capa-11.the_rose_0000s_0030_Capa-11
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0031_Capa-12.the_rose_0000s_0031_Capa-12
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0032_Capa-13.the_rose_0000s_0032_Capa-13
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0033_Capa-14.the_rose_0000s_0033_Capa-14
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0034_Capa-15.the_rose_0000s_0034_Capa-15
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0035_Capa-16.the_rose_0000s_0035_Capa-16
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0036_Capa-17.the_rose_0000s_0036_Capa-17
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0037_Capa-18.the_rose_0000s_0037_Capa-18
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0038_Capa-19.the_rose_0000s_0038_Capa-19
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0039_Capa-20.the_rose_0000s_0039_Capa-20
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0040_Capa-21.the_rose_0000s_0040_Capa-21
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0041_Capa-22.the_rose_0000s_0041_Capa-22
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0042_Capa-23.the_rose_0000s_0042_Capa-23
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0043_Capa-24.the_rose_0000s_0043_Capa-24
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0044_Capa-25.the_rose_0000s_0044_Capa-25
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0045_Capa-26.the_rose_0000s_0045_Capa-26
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0046_Capa-27.the_rose_0000s_0046_Capa-27
+[2020.04.12-20.01.00:333][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0047_Capa-28.the_rose_0000s_0047_Capa-28
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0048_Capa-29.the_rose_0000s_0048_Capa-29
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating Texture2D /Game/Level_4/Layers/the_rose_0000s_0049_Capa-1-copia.the_rose_0000s_0049_Capa-1-copia
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Walls/pared_cuadro1.pared_cuadro1
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Walls/pared_cuadro2.pared_cuadro2
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Walls/pared_lampara.pared_lampara
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Walls/pared_mesita.pared_mesita
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Doors/puerta.puerta
+[2020.04.12-20.01.00:334][774]LogContentValidation: Display: Validating StaticMesh /Game/Main_Room/Doors/marco_Puerta.marco_Puerta
