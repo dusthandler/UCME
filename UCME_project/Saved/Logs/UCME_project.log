@@ -2923,3 +2923,444 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.15-23.10.38:411][106]AssetCheck: New page: Asset Save: Level_2
 [2020.04.15-23.10.38:411][106]LogContentValidation: Display: Validating World /Game/Level_2/Level_2.Level_2
 [2020.04.15-23.10.42:146][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.04.15-23.44.39:836][469]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.15-23.45.31:661][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.15-23.45.31:708][622]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto98A2C73264213621A47BF7B89FED01A34.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto9.umap'
+[2020.04.15-23.45.31:710][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.083
+[2020.04.15-23.45.31:710][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.04.15-23.48.28:678][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.15-23.49.16:575][701]Cmd: TRANSACTION UNDO
+[2020.04.15-23.49.16:575][701]LogEditorTransaction: Undo Move Actors
+[2020.04.15-23.52.29:850][ 91]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.15-23.55.32:085][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.15-23.55.32:159][630]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto09373150249F3244A7330EF90E2226732.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto0.umap'
+[2020.04.15-23.55.32:162][630]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.109
+[2020.04.15-23.55.32:162][630]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2020.04.16-00.00.38:641][791]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.01.26:558][878]Cmd: TRANSACTION UNDO
+[2020.04.16-00.01.26:558][878]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.02.17:198][978]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Laberinto)
+[2020.04.16-00.02.18:495][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.02.19:117][ 15]Cmd: TRANSACTION UNDO
+[2020.04.16-00.02.19:118][ 15]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2020.04.16-00.04.44:319][244]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.07.22:191][666]Cmd: TRANSACTION UNDO
+[2020.04.16-00.07.22:191][666]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.09.49:171][973]Cmd: TRANSACTION UNDO
+[2020.04.16-00.09.49:171][973]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.10.11:502][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Luz14)
+[2020.04.16-00.11.52:742][688]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.15.20:447][274]Cmd: TRANSACTION UNDO
+[2020.04.16-00.15.20:447][274]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.15.24:281][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.15.25:443][379]Cmd: TRANSACTION UNDO
+[2020.04.16-00.15.25:443][379]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.16.12:452][423]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.16.28:449][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Luz20)
+[2020.04.16-00.17.14:650][738]Cmd: TRANSACTION UNDO
+[2020.04.16-00.17.14:650][738]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.17.52:769][575]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.19.08:725][205]Cmd: TRANSACTION UNDO
+[2020.04.16-00.19.08:725][205]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.20.00:388][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.16-00.20.00:470][895]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto16272C2B245EAD94F2DE8019CAE8000E2.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto1.umap'
+[2020.04.16-00.20.00:472][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.117
+[2020.04.16-00.20.00:472][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.117
+[2020.04.16-00.22.52:657][329]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.23.48:222][562]Cmd: TRANSACTION UNDO
+[2020.04.16-00.23.48:222][562]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.23.48:950][577]Cmd: TRANSACTION UNDO
+[2020.04.16-00.23.48:950][577]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.23.49:695][594]Cmd: TRANSACTION UNDO
+[2020.04.16-00.23.49:695][594]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.24.03:335][894]Cmd: TRANSACTION REDO
+[2020.04.16-00.24.03:335][894]LogEditorTransaction: Redo Move Actors
+[2020.04.16-00.25.34:567][915]Cmd: TRANSACTION UNDO
+[2020.04.16-00.25.34:567][915]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.25.53:261][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.25.54:276][326]Cmd: TRANSACTION UNDO
+[2020.04.16-00.25.54:276][326]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.26.35:574][204]Cmd: TRANSACTION UNDO
+[2020.04.16-00.26.35:574][204]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.26.40:368][304]Cmd: TRANSACTION REDO
+[2020.04.16-00.26.40:368][304]LogEditorTransaction: Redo Pinchar en los actores
+[2020.04.16-00.26.42:975][359]Cmd: DELETE
+[2020.04.16-00.26.42:975][359]Cmd: ACTOR DELETE
+[2020.04.16-00.26.42:980][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-00.26.43:032][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.16-00.26.43:044][359]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2020.04.16-00.29.09:922][554]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.16-00.29.21:750][739]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.04.16-00.29.32:533][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.29.34:056][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.29.36:442][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Luz7)
+[2020.04.16-00.30.37:158][503]Cmd: TRANSACTION UNDO
+[2020.04.16-00.30.37:159][503]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.31.25:230][617]Cmd: TRANSACTION UNDO
+[2020.04.16-00.31.25:230][617]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.33.03:194][753]Cmd: TRANSACTION UNDO
+[2020.04.16-00.33.03:194][753]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.33.29:126][308]Cmd: TRANSACTION UNDO
+[2020.04.16-00.33.29:126][308]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.33.32:822][382]Cmd: TRANSACTION REDO
+[2020.04.16-00.33.32:822][382]LogEditorTransaction: Redo Move Actors
+[2020.04.16-00.37.16:950][413]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.37.25:908][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Soporte27)
+[2020.04.16-00.37.28:406][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.37.29:702][694]Cmd: TRANSACTION UNDO
+[2020.04.16-00.37.29:702][694]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.39.42:885][718]Cmd: TRANSACTION UNDO
+[2020.04.16-00.39.42:885][718]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.39.44:543][752]Cmd: TRANSACTION UNDO
+[2020.04.16-00.39.44:543][752]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.40.27:444][682]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.41.31:116][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.16-00.41.31:183][658]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto2B50DE1E54BD1BA3FF3401EAA70AA2F78.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto2.umap'
+[2020.04.16-00.41.31:188][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.107
+[2020.04.16-00.41.31:188][658]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.107
+[2020.04.16-00.45.25:952][468]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.25:952][468]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.45.26:743][483]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.26:743][483]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.45.27:239][493]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.27:240][493]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.45.27:793][505]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.27:793][505]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.45.28:338][517]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.28:338][517]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.45.28:766][526]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.28:766][526]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.45.37:567][720]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.37:567][720]LogEditorTransaction: Undo Rotate Actors
+[2020.04.16-00.45.38:207][733]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.38:207][733]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.45.39:232][753]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.39:232][753]LogEditorTransaction: Undo Rotate Actors
+[2020.04.16-00.45.39:940][768]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.39:940][768]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.45.46:310][906]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.46:310][906]LogEditorTransaction: Undo Rotate Actors
+[2020.04.16-00.45.47:345][926]Cmd: TRANSACTION UNDO
+[2020.04.16-00.45.47:345][926]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.47.06:190][775]Cmd: TRANSACTION UNDO
+[2020.04.16-00.47.06:190][775]LogEditorTransaction: Undo Rotate Actors
+[2020.04.16-00.47.27:009][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.47.29:240][304]Cmd: TRANSACTION UNDO
+[2020.04.16-00.47.29:241][304]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.48.47:006][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-00.48.48:039][124]Cmd: TRANSACTION UNDO
+[2020.04.16-00.48.48:039][124]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.50.00:974][770]Cmd: TRANSACTION UNDO
+[2020.04.16-00.50.00:974][770]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.50.22:759][258]Cmd: TRANSACTION UNDO
+[2020.04.16-00.50.22:760][258]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.50.38:306][610]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.51.33:869][825]Cmd: TRANSACTION UNDO
+[2020.04.16-00.51.33:869][825]LogEditorTransaction: Undo Move Actors
+[2020.04.16-00.53.15:259][ 98]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Laberinto)
+[2020.04.16-00.53.16:332][119]Cmd: TRANSACTION UNDO
+[2020.04.16-00.53.16:332][119]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2020.04.16-00.53.18:678][167]Cmd: TRANSACTION UNDO
+[2020.04.16-00.53.18:678][167]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.16-00.56.43:327][780]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-00.58.45:415][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.16-00.58.46:179][513]Cmd: TRANSACTION UNDO
+[2020.04.16-00.58.46:179][513]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-00.58.46:708][522]Cmd: TRANSACTION UNDO
+[2020.04.16-00.58.46:708][522]LogEditorTransaction: Undo Seleccionar superficies
+[2020.04.16-00.58.59:500][809]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.00.45:217][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-01.00.50:447][211]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.01.33:829][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Base11)
+[2020.04.16-01.02.54:391][975]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.04.21:908][ 21]Cmd: TRANSACTION UNDO
+[2020.04.16-01.04.21:909][ 21]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.04.22:370][ 28]Cmd: TRANSACTION UNDO
+[2020.04.16-01.04.22:370][ 28]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.04.22:906][ 41]Cmd: TRANSACTION UNDO
+[2020.04.16-01.04.22:906][ 41]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.05.15:080][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Base32)
+[2020.04.16-01.07.05:675][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Base30)
+[2020.04.16-01.08.43:758][ 77]Cmd: TRANSACTION UNDO
+[2020.04.16-01.08.43:758][ 77]LogEditorTransaction: Undo Conmutar ubicación absoluta
+[2020.04.16-01.08.45:339][112]Cmd: TRANSACTION UNDO
+[2020.04.16-01.08.45:340][112]LogEditorTransaction: Undo Set Location
+[2020.04.16-01.08.52:868][291]Cmd: TRANSACTION UNDO
+[2020.04.16-01.08.52:868][291]LogEditorTransaction: Undo Conmutar ubicación absoluta
+[2020.04.16-01.08.55:160][342]Cmd: TRANSACTION UNDO
+[2020.04.16-01.08.55:160][342]LogEditorTransaction: Undo Set Location
+[2020.04.16-01.09.00:957][474]Cmd: TRANSACTION REDO
+[2020.04.16-01.09.00:958][474]LogEditorTransaction: Redo Set Location
+[2020.04.16-01.12.52:720][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.16-01.12.52:791][333]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto346207815472D5EC88C8E2CA008D0446C.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto3.umap'
+[2020.04.16-01.12.52:793][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.112
+[2020.04.16-01.12.52:793][333]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.112
+[2020.04.16-01.13.08:626][676]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.14.25:889][427]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.25:889][427]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.14.26:863][446]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.26:863][446]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.14.27:537][460]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.27:537][460]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.14.28:176][473]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.28:176][473]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.14.33:692][587]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.33:693][587]LogEditorTransaction: Undo Editar Intensidad
+[2020.04.16-01.14.34:890][610]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.34:890][610]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.14.36:147][637]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.36:147][637]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.14.36:882][654]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.36:882][654]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.14.37:828][676]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.37:828][676]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.14.39:038][703]Cmd: TRANSACTION UNDO
+[2020.04.16-01.14.39:038][703]LogEditorTransaction: Undo Set Location
+[2020.04.16-01.15.01:790][246]Cmd: TRANSACTION UNDO
+[2020.04.16-01.15.01:790][246]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.15.34:435][952]Cmd: TRANSACTION UNDO
+[2020.04.16-01.15.34:436][952]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.15.40:582][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-01.16.02:117][595]Cmd: TRANSACTION UNDO
+[2020.04.16-01.16.02:117][595]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.16.10:448][788]Cmd: TRANSACTION UNDO
+[2020.04.16-01.16.10:448][788]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.16.31:683][295]Cmd: TRANSACTION UNDO
+[2020.04.16-01.16.31:683][295]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.17.59:166][326]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.21.40:602][144]Cmd: TRANSACTION UNDO
+[2020.04.16-01.21.40:602][144]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.21.42:142][175]Cmd: TRANSACTION UNDO
+[2020.04.16-01.21.42:142][175]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.23.19:304][319]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.24.25:280][871]EditorErrors: New page: Actor attachment
+[2020.04.16-01.24.27:085][914]Cmd: TRANSACTION UNDO
+[2020.04.16-01.24.27:085][914]LogEditorTransaction: Undo Attach actors
+[2020.04.16-01.25.26:872][321]Cmd: TRANSACTION UNDO
+[2020.04.16-01.25.26:872][321]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.25.53:294][946]Cmd: TRANSACTION UNDO
+[2020.04.16-01.25.53:294][946]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.31.15:334][470]Cmd: DELETE
+[2020.04.16-01.31.15:335][470]Cmd: ACTOR DELETE
+[2020.04.16-01.31.15:350][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.15:353][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.15:354][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.15:357][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.15:417][470]LogUObjectHash: Compacting FUObjectHashTables data took  10.37ms
+[2020.04.16-01.31.15:426][470]LogEditorActor: Deleted 4 Actors (0.090 secs)
+[2020.04.16-01.31.23:370][662]Cmd: DELETE
+[2020.04.16-01.31.23:370][662]Cmd: ACTOR DELETE
+[2020.04.16-01.31.23:379][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.23:380][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.23:381][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.23:382][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.31.23:436][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.16-01.31.23:438][662]LogEditorActor: Deleted 4 Actors (0.067 secs)
+[2020.04.16-01.32.18:918][930]Cmd: TRANSACTION UNDO
+[2020.04.16-01.32.18:918][930]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.32.33:957][246]Cmd: TRANSACTION UNDO
+[2020.04.16-01.32.33:957][246]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.32.34:719][257]Cmd: TRANSACTION UNDO
+[2020.04.16-01.32.34:719][257]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.33.19:740][266]Cmd: TRANSACTION UNDO
+[2020.04.16-01.33.19:740][266]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.34.07:797][412]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.16-01.35.41:474][456]Cmd: TRANSACTION UNDO
+[2020.04.16-01.35.41:474][456]LogEditorTransaction: Undo Rotate Actors
+[2020.04.16-01.37.08:889][264]Cmd: TRANSACTION UNDO
+[2020.04.16-01.37.08:889][264]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.16-01.37.09:490][275]Cmd: TRANSACTION UNDO
+[2020.04.16-01.37.09:490][275]LogEditorTransaction: Undo Set Rotation
+[2020.04.16-01.38.24:056][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.16-01.38.24:130][921]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto4CC84FBB9470DE49D8431BC971821DF47.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto4.umap'
+[2020.04.16-01.38.24:132][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.113
+[2020.04.16-01.38.24:132][921]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2020.04.16-01.38.49:065][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lámpara_Soporte25)
+[2020.04.16-01.39.41:332][644]Cmd: DELETE
+[2020.04.16-01.39.41:332][644]Cmd: ACTOR DELETE
+[2020.04.16-01.39.41:348][644]LogEditorActor: Deleted Actor: PointLight
+[2020.04.16-01.39.41:399][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.16-01.39.41:405][644]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2020.04.16-01.39.46:543][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-01.39.59:146][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.16-01.39.59:203][ 51]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_276692D3544E3C67A07FDDA857469A52A.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Content/Level_2/Level_2.umap'
+[2020.04.16-01.39.59:270][ 51]AssetCheck: New page: Asset Save: Level_2
+[2020.04.16-01.39.59:270][ 51]LogContentValidation: Display: Validating World /Game/Level_2/Level_2.Level_2
+[2020.04.16-01.40.01:951][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.16-01.40.06:420][213]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.16-01.40.06:448][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.16-01.40.06:449][213]PIE: New page: Sesión PIE (reproducción en el editor): Level_2 (16 abr. 2020 5:40:06)
+[2020.04.16-01.40.06:452][213]LogPlayLevel: Creating play world package: /Game/Level_2/UEDPIE_0_Level_2
+[2020.04.16-01.40.06:474][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021593s)
+[2020.04.16-01.40.06:476][213]LogAIModule: Creating AISystem for world Level_2
+[2020.04.16-01.40.06:476][213]LogPlayLevel: PIE: World Init took: (0.002370s)
+[2020.04.16-01.40.06:476][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_2/Level_2.Level_2 to /Game/Level_2/UEDPIE_0_Level_2.Level_2 (0.024422s)
+[2020.04.16-01.40.06:529][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.16-01.40.06:532][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.16-01.40.06:532][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.16-01.40.06:533][213]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.16-01.40.06:533][213]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Is Default: Yes
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: Channel Order:
+[2020.04.16-01.40.06:538][213]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.16-01.40.06:539][213]LogAudioMixer: Display: 1: FrontRight
+[2020.04.16-01.40.06:558][213]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.16-01.40.06:564][213]LogInit: FAudioDevice initialized.
+[2020.04.16-01.40.06:588][213]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.16-01.40.06:594][213]LogWorld: Bringing World /Game/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2020.04.16-03.40.06
+[2020.04.16-01.40.06:595][213]LogWorld: Bringing up level for play took: 0.006122
+[2020.04.16-01.40.06:595][213]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.04.16-01.40.06:599][213]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Level_2/UEDPIE_0_Level_2 0,085
+[2020.04.16-01.41.10:970][ 98]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.41.10:970][ 98]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.41.10:971][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.16-01.41.10:971][ 98]LogWorld: BeginTearingDown for /Game/Level_2/UEDPIE_0_Level_2
+[2020.04.16-01.41.10:971][ 98]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.41.10:971][ 98]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.16-01.41.10:972][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-01.41.11:061][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.16-01.41.11:066][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-01.41.11:100][ 98]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.41.11:103][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.16-01.41.11:109][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.16-01.41.11:141][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.04.16-01.41.25:284][458]Cmd: TRANSACTION UNDO
+[2020.04.16-01.41.25:284][458]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.16-01.43.21:922][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laberinto)
+[2020.04.16-01.43.29:052][726]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.04.16-01.43.41:939][ 38]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.04.16-01.43.48:749][214]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.04.16-01.44.06:115][623]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.16-01.44.12:658][793]Cmd: TRANSACTION UNDO
+[2020.04.16-01.44.12:658][793]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.44.28:246][166]Cmd: DELETE
+[2020.04.16-01.44.28:246][166]Cmd: ACTOR DELETE
+[2020.04.16-01.44.28:252][166]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2020.04.16-01.44.28:342][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.16-01.44.28:349][166]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2020.04.16-01.44.32:415][279]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.04.16-01.45.01:637][ 40]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.04.16-01.45.06:919][177]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.16-01.45.16:321][430]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.16-01.47.19:307][511]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.04.16-01.47.20:848][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.16-01.47.20:879][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.16-01.47.20:879][551]PIE: New page: Sesión PIE (reproducción en el editor): Level_2 (16 abr. 2020 5:47:20)
+[2020.04.16-01.47.20:881][551]LogPlayLevel: Creating play world package: /Game/Level_2/UEDPIE_0_Level_2
+[2020.04.16-01.47.20:899][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017385s)
+[2020.04.16-01.47.20:900][551]LogAIModule: Creating AISystem for world Level_2
+[2020.04.16-01.47.20:900][551]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2020.04.16-01.47.20:900][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_2/Level_2.Level_2 to /Game/Level_2/UEDPIE_0_Level_2.Level_2 (0.019080s)
+[2020.04.16-01.47.20:944][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.16-01.47.20:951][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.16-01.47.20:951][551]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.16-01.47.20:951][551]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Is Default: Yes
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: Channel Order:
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.16-01.47.20:956][551]LogAudioMixer: Display: 1: FrontRight
+[2020.04.16-01.47.20:972][551]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.04.16-01.47.20:973][551]LogInit: FAudioDevice initialized.
+[2020.04.16-01.47.20:986][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.16-01.47.20:992][551]LogWorld: Bringing World /Game/Level_2/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2020.04.16-03.47.20
+[2020.04.16-01.47.20:993][551]LogWorld: Bringing up level for play took: 0.004870
+[2020.04.16-01.47.20:993][551]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.04.16-01.47.20:996][551]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Level_2/UEDPIE_0_Level_2 0,483
+[2020.04.16-01.47.36:117][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.47.36:117][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.47.36:118][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.16-01.47.36:118][958]LogWorld: BeginTearingDown for /Game/Level_2/UEDPIE_0_Level_2
+[2020.04.16-01.47.36:118][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.47.36:118][958]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.16-01.47.36:119][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-01.47.36:213][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.16-01.47.36:219][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-01.47.36:253][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.16-01.47.36:256][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.16-01.47.36:260][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.16-01.47.36:279][959]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.04.16-01.48.31:683][345]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.04.16-01.48.46:643][704]LogSlate: Window 'Seleccionador de color' being destroyed
+[2020.04.16-01.50.07:910][724]Cmd: TRANSACTION UNDO
+[2020.04.16-01.50.07:910][724]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.50.14:299][876]Cmd: TRANSACTION REDO
+[2020.04.16-01.50.14:299][876]LogEditorTransaction: Redo Pinchar en los actores
+[2020.04.16-01.50.18:268][971]Cmd: TRANSACTION UNDO
+[2020.04.16-01.50.18:268][971]LogEditorTransaction: Undo Pinchar en los actores
+[2020.04.16-01.51.27:132][732]Cmd: TRANSACTION UNDO
+[2020.04.16-01.51.27:133][732]LogEditorTransaction: Undo Cambiar el nombre de la carpeta
+[2020.04.16-01.51.28:444][762]Cmd: TRANSACTION UNDO
+[2020.04.16-01.51.28:444][762]LogEditorTransaction: Undo Crear Carpeta
+[2020.04.16-01.51.54:927][447]Cmd: TRANSACTION UNDO
+[2020.04.16-01.51.54:927][447]LogEditorTransaction: Undo Crear Carpeta
+[2020.04.16-01.52.31:447][382]Cmd: TRANSACTION UNDO
+[2020.04.16-01.52.31:447][382]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.16-01.52.42:551][665]Cmd: TRANSACTION UNDO
+[2020.04.16-01.52.42:552][665]LogEditorTransaction: Undo Crear Carpeta
+[2020.04.16-01.52.49:487][838]Cmd: TRANSACTION UNDO
+[2020.04.16-01.52.49:487][838]LogEditorTransaction: Undo Crear Carpeta
+[2020.04.16-01.52.57:697][ 39]Cmd: TRANSACTION UNDO
+[2020.04.16-01.52.57:697][ 39]LogEditorTransaction: Undo Crear Carpeta
+[2020.04.16-01.53.30:427][868]Cmd: TRANSACTION UNDO
+[2020.04.16-01.53.30:427][868]LogEditorTransaction: Undo Move World Outliner Items
+[2020.04.16-01.54.00:911][650]Cmd: TRANSACTION UNDO
+[2020.04.16-01.54.00:911][650]LogEditorTransaction: Undo Cambiar el nombre de la carpeta
+[2020.04.16-01.54.53:446][984]Cmd: DELETE
+[2020.04.16-01.54.53:446][984]Cmd: ACTOR DELETE
+[2020.04.16-01.54.53:453][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.54.53:454][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.54.53:456][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.54.53:457][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.16-01.54.53:524][984]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2020.04.16-01.54.53:536][984]LogEditorActor: Deleted 4 Actors (0.090 secs)
+[2020.04.16-01.57.10:227][591]Cmd: TRANSACTION UNDO
+[2020.04.16-01.57.10:227][591]LogEditorTransaction: Undo Move Actors
+[2020.04.16-01.57.57:410][823]Cmd: EDCALLBACK SURFPROPS
+[2020.04.16-01.57.59:720][882]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.16-01.57.59:831][882]LogEditorViewport: Clicking on Component (LMB): BoxComponent (CollisionComp)
+[2020.04.16-01.58.00:648][904]LogEditorViewport: Clicking on Component (LMB): BoxComponent (CollisionComp)
+[2020.04.16-01.58.00:732][904]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Laberinto)
+[2020.04.16-01.59.15:991][859]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_2/Level_2.Level_2:PersistentLevel.Level
+[2020.04.16-02.00.27:539][462]LogSlate: Window 'Level' being destroyed
+[2020.04.16-02.00.27:602][462]LogSlate: Window 'Level' being destroyed
+[2020.04.16-02.00.27:633][462]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.16-02.00.27:633][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-02.00.56:503][229]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_2/Level_2.Level_2:PersistentLevel.Level
+[2020.04.16-02.01.07:819][479]LogSlate: Window 'Level' being destroyed
+[2020.04.16-02.01.07:906][479]LogSlate: Window 'Level' being destroyed
+[2020.04.16-02.01.07:921][479]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.16-02.01.07:921][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.16-02.02.03:356][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.04.16-02.02.03:429][932]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_2_Auto54B39DA7D49796A10A579DD86C425F12D.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Autosaves/Game/Level_2/Level_2_Auto5.umap'
+[2020.04.16-02.02.03:434][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_2/Level_2' took 0.120
+[2020.04.16-02.02.03:434][932]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.120
+[2020.04.16-02.02.58:014][355]LogSlate: Window 'Seleccionar ruta' being destroyed
+[2020.04.16-02.03.20:536][787]LogSlate: Window 'Escoger clase padre' being destroyed
+[2020.04.16-02.05.39:556][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.04.16-02.05.39:835][963]LogSavePackage: Moving '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Saved/Level_259940CBD4CF2C4CCB2AF0D9D22A06911.tmp' to '../../../../../../Users/albii/Desktop/ENTI/ENTI (1r)/Segundo semestre/Arte Moderno/Projecto UCME/UCME/UCME_project/Content/Level_2/Level_2.umap'
+[2020.04.16-02.05.39:889][963]AssetCheck: New page: Asset Save: Level_2
+[2020.04.16-02.05.39:889][963]LogContentValidation: Display: Validating World /Game/Level_2/Level_2.Level_2
+[2020.04.16-02.05.42:555][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
